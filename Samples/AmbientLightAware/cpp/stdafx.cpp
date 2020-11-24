@@ -3,12 +3,11 @@
 // THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
 // PARTICULAR PURPOSE.
 //
-// Copyright © Microsoft Corporation.  All rights reserved.
+// Copyright ?Microsoft Corporation.  All rights reserved.
 
 // stdafx.cpp : source file that includes just the standard includes
 // AmbientLightAware.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
 
+
 #include "stdafx.h"
-
-
